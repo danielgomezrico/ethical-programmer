@@ -2,3 +2,4 @@ I hereby promise that I will strive to follow the Ethical Programmer Manifesto, 
 the consequences of my actions as a programmer.
 
 - Juan David Castillo ([castillobg](github.com/castillobg))
+- Elliott Alexander ([escottalexander](github.com/escottalexander))
